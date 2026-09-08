@@ -15,6 +15,10 @@ Please include:
 - Chrome version and operating system
 - The page URL, if reading failed (omit anything private)
 
+## Privacy
+
+[Privacy Policy](https://github.com/reejosamuel/read-that-out/blob/main/PRIVACY.md)
+
 ## This is not an open-source project
 
 Do not send pull requests or source code. Issues are the only thing this repo is for.
